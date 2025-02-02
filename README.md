@@ -25,7 +25,7 @@ This SQL script is designed to clean, standardize, and analyze HR data. Once the
    - Measured the average length of employment for terminated employees.
    - Determined which department had the highest turnover rate.
 
-      ## Exporting and Visualizing the Results
+      ## step 3: Exporting and Visualizing the Results
   1.  Saved the SQL Query Results to a CSV File
    - Exported the cleaned and analyzed data into a CSV file.
      
